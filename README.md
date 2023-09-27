@@ -10,8 +10,11 @@
 
 
 Connect with me 📬:
+
 LinkdeIn: https://github.com/ss8319
+
 Email: shamussim@gmail.com
+
 Github
 <!--
 **ss8319/ss8319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
