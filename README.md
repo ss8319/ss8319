@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 🔭 I’m currently working on great Machine Learning projects using Python.
+
 🌱 I’m currently learning taking a refresher course on ML Fundamentals from the highly-popular Machine Learning Specialization by Stanford Online and Deeplearning.AI.
+
 👯 I’m looking to collaborate on AI Medical Imaging technologies.
+
 💬 Ask me about Machine Learning, Medical AI, Sign Language Translation Machine Translation.
 
 <!--
