@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ Check out my Brain Tumor Prohect @ https://github.com/ss8319/Br35H-Brain-Tumor-Detection
+⚡ Check out my Brain Tumor Project @ https://github.com/ss8319/Br35H-Brain-Tumor-Detection
 
 🔭 I’m currently working on great Machine Learning projects using Python.
 
