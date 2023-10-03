@@ -41,7 +41,7 @@
 ### Statistics 📊: 
 
 ![](https://komarev.com/ghpvc/?username=AI-MOO&color=blue) 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/ss8319?style=social"> <a href="https://twitter.com/Science10S"><img src="https://img.shields.io/twitter/follow/Science10s?style=social" /></a>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/ss8319?style=social"> 
 
 <div align="center">
 
@@ -49,10 +49,6 @@
 <img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ss8319&layout=compact&langs_count=8&theme=nord" />
 </a>
 
-</div>
-
-
-Github
 <!--
 **ss8319/ss8319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
