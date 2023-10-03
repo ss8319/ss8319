@@ -11,7 +11,8 @@
 💬 Ask me about Machine Learning, Medical AI, Sign Language Translation Machine Translation.
 
 Languages:
-       
+![image](https://github.com/ss8319/ss8319/assets/72968523/5a7a0323-1e0a-4644-8033-6d685e6cb7de)
+
 
 Tools & Libraries:
                      
