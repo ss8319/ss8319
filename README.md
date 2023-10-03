@@ -10,6 +10,11 @@
 
 💬 Ask me about Machine Learning, Medical AI, Sign Language Translation Machine Translation.
 
+Languages:
+       
+
+Tools & Libraries:
+                     
 
 Connect with me 📬:
 
