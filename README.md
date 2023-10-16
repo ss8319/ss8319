@@ -2,6 +2,8 @@
 
 ⚡ Check out my Brain Tumor Project @ https://github.com/ss8319/Br35H-Brain-Tumor-Detection
 
+✨ Check out my solution to the RSNA-MICCAI Brain Tumor Radiogenomic Classification Kaggle Competition @https://github.com/ss8319/RSNA-MICCAI-Brain-Tumor-Radiogenomic-Classification.git
+
 🔭 I’m currently working on great Machine Learning projects using Python.
 
 🌱 I’m currently learning taking a refresher course on ML Fundamentals from the highly-popular Machine Learning Specialization by Stanford Online and Deeplearning.AI.
