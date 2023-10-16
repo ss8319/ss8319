@@ -10,7 +10,7 @@
 
 👯 I’m looking to collaborate on AI Medical Imaging technologies.
 
-💬 Ask me about Machine Learning, Medical AI, Sign Language Translation Machine Translation.
+💬 Ask me about Machine Learning, Medical AI, Sign Language Translation or Machine Translation.
 
 ### Languages:
 
