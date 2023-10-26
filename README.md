@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ Check out my Brain Tumor Project @ https://github.com/ss8319/Br35H-Brain-Tumor-Detection
+⚡ Check out my Brain Tumor Project @ https://github.com/ss8319/Br35H-Brain-Tumor-Detection or Chest X-Ray COVID detection project @ https://github.com/ss8319/Detecting-COVID--19-with-Chest-X-Rays-
 
 ✨ Check out my solution to the RSNA-MICCAI Brain Tumor Radiogenomic Classification Kaggle Competition @https://github.com/ss8319/RSNA-MICCAI-Brain-Tumor-Radiogenomic-Classification.git
 
