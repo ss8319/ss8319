@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning taking a refresher course on ML Fundamentals from the highly-popular Machine Learning Specialization by Stanford Online and Deeplearning.AI.
 
-👯 I’m looking to collaborate on AI Medical Imaging technologies.
+👯 I’m looking to collaborate on AI Medical Imaging or AI Medical LLM technologies.
 
 💬 Ask me about Machine Learning, Medical AI, Sign Language Translation or Machine Translation.
 
