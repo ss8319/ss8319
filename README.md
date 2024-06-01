@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on buidling a AI Medical Decision Support System and AI For Medical Image Analysis at Qmed Asia.
+🔭 I’m currently working on buidling an AI Medical Decision Support System and AI For Medical Image Analysis at Qmed Asia.
 
 🌱 I’m currently working on a few journals in the are of Medical AI with industry collaborators and university researchers.
 
