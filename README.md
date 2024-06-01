@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-⚡ Check out my Brain Tumor Project @ https://github.com/ss8319/Br35H-Brain-Tumor-Detection or Chest X-Ray COVID detection project @ https://github.com/ss8319/Detecting-COVID--19-with-Chest-X-Rays-
+🔭 I’m currently working on buidling a AI Medical Decision Support System and AI For Medical Image Analysis at Qmed Asia.
 
-✨ Check out my solution to the RSNA-MICCAI Brain Tumor Radiogenomic Classification Kaggle Competition @https://github.com/ss8319/RSNA-MICCAI-Brain-Tumor-Radiogenomic-Classification.git
-
-🔭 I’m currently working on great Machine Learning projects using Python.
-
-🌱 I’m currently learning taking a refresher course on ML Fundamentals from the highly-popular Machine Learning Specialization by Stanford Online and Deeplearning.AI.
+🌱 I’m currently working on a few journals in the are of Medical AI with industry collaborators and university researchers.
 
 👯 I’m looking to collaborate on AI Medical Imaging or AI Medical LLM technologies.
 
