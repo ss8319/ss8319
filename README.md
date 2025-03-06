@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-🔭 I’m currently working on buidling an AI Medical Decision Support System and AI For Medical Image Analysis at Qmed Asia.
+🔭 I’m a ML Engineer buidling Medical AI at Qmed Asia.
 
 🌱 I’m currently working on a few journal papers in the area of Medical AI with industry collaborators and university researchers.
 
-👯 I’m looking to collaborate on AI Medical Imaging or AI Medical LLM technologies.
+👯 I’m looking to collaborate on areas in AI for Healthcare.
 
-💬 Ask me about Machine Learning, Medical AI, Sign Language Translation or Machine Translation.
+💬 Ask me about Machine Learning, Medical AI, Machine Translation.
 
 ### Languages:
 
