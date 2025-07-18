@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m a ML Engineer buidling Medical AI at Qmed Asia.
-
-🌱 I’m currently working on a few journal papers in the area of Medical AI with industry collaborators and university researchers.
+🔭 I’m a Medical AI Research Assistant at Monash University.
 
 👯 I’m looking to collaborate on areas in AI for Healthcare.
 
