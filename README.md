@@ -1,10 +1,15 @@
 ### Hi there 👋
+I'm Shamus, an AI Engineer, working at the intersection of Deep Learning and Healthcare.
 
-🔭 I’m a Medical AI Research Assistant at Monash University.
+🧠 My Projects
 
-👯 I’m looking to collaborate on areas in AI for Healthcare.
+Multimodal AI that integrates proteomics and MRI for Alzheimer's Disease prediction: https://github.com/ss8319/multimodal-AD
 
-💬 Ask me about Machine Learning, Medical AI, Machine Translation.
+fMRI foundational model: https://github.com/MedARC-AI/fmri-fm
+
+Neural Decoding: https://github.com/hassonlab/podcast-benchmark
+
+CPU LLM fine-tuning with speeds approaching GPU: https://github.com/qmed-asia/Llama3-Finetuning-CPU-GPU
 
 ### Languages:
 
