@@ -9,9 +9,9 @@ https://github.com/MedARC-AI/fmri-fm: fMRI foundational model
 
 https://github.com/hassonlab/podcast-benchmark: Neural Decoding
 
-https://github.com/qmed-asia/Llama3-Finetuning-CPU-GPU: CPU LLM fine-tuning with speeds approaching GPU 
+https://github.com/qmed-asia/Llama3-Finetuning-CPU-GPU: (ICECCE 2024) CPU LLM fine-tuning with speeds approaching GPU 
 
-https://arxiv.org/abs/2412.15748: Comprehensive Survey of Medical LLM reasoning
+https://arxiv.org/abs/2412.15748: (eLife) Comprehensive Survey of Medical LLM reasoning
 
 Feel free to reach out if you're interested in collaboration or just want to chat!
 
