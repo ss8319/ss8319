@@ -13,6 +13,8 @@ https://github.com/qmed-asia/Llama3-Finetuning-CPU-GPU: CPU LLM fine-tuning with
 
 https://arxiv.org/abs/2412.15748: Comprehensive Survey of Medical LLM reasoning
 
+Feel free to reach out if you're interested in collaboration or just want to chat!
+
 ### Languages:
 
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026129-caec5380-9eca-11eb-86cd-faef1218fd80.png"></code>
