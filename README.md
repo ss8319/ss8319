@@ -3,13 +3,15 @@ I'm Shamus, an AI Engineer, working at the intersection of Deep Learning and Hea
 
 🧠 My Projects
 
-Multimodal AI that integrates proteomics and MRI for Alzheimer's Disease prediction: https://github.com/ss8319/multimodal-AD
+https://github.com/ss8319/multimodal-AD: Multimodal AI that integrates proteomics and MRI for Alzheimer's Disease prediction
 
-fMRI foundational model: https://github.com/MedARC-AI/fmri-fm
+https://github.com/MedARC-AI/fmri-fm: fMRI foundational model
 
-Neural Decoding: https://github.com/hassonlab/podcast-benchmark
+https://github.com/hassonlab/podcast-benchmark: Neural Decoding
 
-CPU LLM fine-tuning with speeds approaching GPU: https://github.com/qmed-asia/Llama3-Finetuning-CPU-GPU
+https://github.com/qmed-asia/Llama3-Finetuning-CPU-GPU: CPU LLM fine-tuning with speeds approaching GPU 
+
+https://arxiv.org/abs/2412.15748: Comprehensive Survey of Medical LLM reasoning
 
 ### Languages:
 
