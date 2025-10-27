@@ -13,6 +13,8 @@ https://github.com/qmed-asia/Llama3-Finetuning-CPU-GPU: (ICECCE 2024) CPU LLM fi
 
 https://arxiv.org/abs/2412.15748: (eLife) Comprehensive Survey of Medical LLM reasoning
 
+https://github.com/ss8319/SEP: Replication of Semantic Entropy Probes for LLM hallucination detection
+
 Feel free to reach out if you're interested in collaboration or just want to chat!
 
 ### Languages:
